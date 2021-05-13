@@ -1,5 +1,5 @@
 {
-  "name": "medium-posts",
+  "name": "medium-articles",
   "version": "1.0.0",
   "description": "An unofficial package for getting medium posts of an account",
   "main": "lib/index.js",
