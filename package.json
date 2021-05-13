@@ -1,6 +1,6 @@
 {
   "name": "medium-articles",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "An unofficial package for getting medium posts of an account",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
