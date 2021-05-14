@@ -4,3 +4,4 @@ tslint.json
 .prettierrc
 demo
 dist
+api

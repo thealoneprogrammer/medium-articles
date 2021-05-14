@@ -1,2 +1,2 @@
 export const BASE_URL = 'https://medium.com/feed';
-export const CORS_PROXY = 'https://cors-anywhere.herokuapp.com/';
+export const API_URL = 'http://localhost:5000'
